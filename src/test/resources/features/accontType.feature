@@ -4,7 +4,7 @@ Feature: Account Type
     Given User should be on the login page
     When  When User should input "coday3434@gmail.com" and "34352023"
     Then The user name should be "Harun"
-
+@wip
   Scenario: Second user
     Given User should be on the login page
     When When User should input "eddiem@kraft.com" and "eddiem12"
